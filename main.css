@@ -1,0 +1,77 @@
+.jumboBG {
+	height:400px;
+	background-image:url('http://p1.pichost.me/i/11/1341184.jpg');
+	background-position: -200px -300px;
+	border-radius: 25px;
+}
+.jumboBG h1 {
+	padding-left: 40px;
+	padding-top: 50px;
+}
+.jumboBG h2 {
+	padding-left: 40px;
+}
+.subhead p {
+	padding-left: 80px;
+}
+.subhead a {
+	color: #00b0ff;
+}
+.labbg{
+	background-color:#D80073;
+	border-radius: 25px;
+	width: 480px;
+}
+.lab a {
+	color: #FFFFFF;
+	font-size: 14px;
+	font-weight: bold;
+	padding-left: 14px;
+	<!--text-transform: uppercase;-->
+	}
+
+.lab h2{
+	padding-left: 152px;
+	font-family: 'Shift', sans-serif;
+	font-size: 18px;
+	font-weight bold;
+	}
+
+.nurikabe a {
+	color: #FFFFFF;
+	font-size: 14;
+	font-weight: bold;
+	padding-left: 14px;
+}
+.nurikabe h2{
+	padding-left: 186px;
+	font-family: 'Shift', sans-serif;
+	font-size: 18px;
+	font-weight bold;
+	}
+.nurikabebg {
+	background-color:#F472D0;
+	border-radius: 25px;
+	width: 480px;
+}
+.hw a {
+	color: #FFFFFF;
+	font-size: 14px;
+	font-weight: bold;
+	padding-left: 14px;
+}
+.hw h2{
+	padding-left: 186px;
+	font-family: 'Shift', sans-serif;
+	font-size: 18px;
+	font-weight bold;
+	}
+.links a{
+	font-family: 'Shift', sans-serif;
+	color: #FFFFFF;
+}
+.hwbg {
+	background-color:#60A917;
+	border-radius: 25px;
+	width: 480px;
+}
